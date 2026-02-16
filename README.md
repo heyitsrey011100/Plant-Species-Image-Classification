@@ -6,37 +6,169 @@ The purpose of this model is to classify 20 different ornamental, rare, and exot
 
 The dataset consists of 5,000+ images (250 images per class), collected from multiple angles and lighting conditions.
 
-20 Plants
-1. Begonia 
-2. Z Plant 
-3. Monstera 
-4. Hostas 
-5. Camellia 
-6. Oleander 
-7. Hydrangea 
-8. Petunia 
-9. Azalea 
-10. Geranium 
-11. Paper Flower Tree (Bougainvillea) 
-12. Rock Rose (Cistus) 
-13. Welwitschia mirabilis 
-14. Puya raimondii 
-15. Blue Puya (Puya berteroniana) 
-16. Corypha umbraculifera 
-17. Metasequoia glyptostroboides 
-18. Nepenthes rajah 
-19. Ravenala madagascariensis 
-20. Himalayan Blue Poppy 
-
-
 B. Plant Species Section
-Begonia
 
-Common Name: Begonia
+1.Begonia
+
+<img width="275" height="183" alt="image" src="https://github.com/user-attachments/assets/192e0337-8287-4f0a-8fd6-602ed9717595" />
 
 Scientific Name: Begonia spp.
 
 Description: Begonias are ornamental flowering plants known for their colorful leaves and asymmetrical foliage. They are commonly used in indoor and garden landscaping due to their vibrant flowers and decorative patterns.
+
+
+2.ZZ Plant
+
+<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/613af6fd-f8e6-45f7-bc3a-bfbda4769734" />
+
+Scientific Name: Zamioculcas zamiifolia
+
+Description: A hardy, drought-tolerant houseplant with glossy, dark green leaves. It is well known for surviving in low light and minimal watering conditions.
+
+3. Monstera
+
+<img width="259" height="194" alt="image" src="https://github.com/user-attachments/assets/3ffb1cb0-c576-41ff-9cf5-8d3cc1907754" />
+
+Scientific Name: Monstera deliciosa
+
+Description: A tropical plant famous for its large, split leaves. It is commonly grown indoors and is native to Central America.
+
+4. Hostas
+
+<img width="224" height="225" alt="image" src="https://github.com/user-attachments/assets/fb09d157-c79f-4d80-be07-57692b9c50a2" />
+ 
+Scientific Name: Hosta spp.
+
+Description: Shade-loving perennial plants known for their broad, decorative foliage. They are commonly used in landscaping gardens.
+
+5. Camellia
+
+<img width="194" height="259" alt="image" src="https://github.com/user-attachments/assets/416c975a-680d-4564-8b90-6d052fc6be32" />
+
+Scientific Name: Camellia japonica
+
+Description: An evergreen shrub with glossy leaves and large, showy flowers. It blooms in cooler seasons and is widely cultivated as an ornamental plant.
+
+6. Oleander
+
+<img width="300" height="168" alt="image" src="https://github.com/user-attachments/assets/31539130-9ef6-42c6-8101-dae1737fa6bc" />
+
+Scientific Name: Nerium oleander
+
+Description: A flowering evergreen shrub that produces clusters of pink, white, or red flowers. It is drought-resistant but highly toxic if ingested.
+
+7. Hydrangea
+
+<img width="276" height="183" alt="image" src="https://github.com/user-attachments/assets/9f5e91b3-50ac-4196-9792-a26d224cff5c" />
+
+Scientific Name: Hydrangea macrophylla
+
+Description: A flowering shrub known for its large, colorful flower clusters. Flower color can change depending on soil pH.
+
+8. Petunia
+
+<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/c819b188-23ff-416d-a548-a5e0be98a08c" />
+
+Scientific Name: Petunia × atkinsiana
+
+Description: A popular garden plant with trumpet-shaped flowers in various colors. It is commonly grown in flower beds and hanging baskets.
+
+9. Azalea
+
+<img width="275" height="183" alt="image" src="https://github.com/user-attachments/assets/fa957034-fd53-481f-b1ed-3be3b4dfde3c" />
+
+Scientific Name: Rhododendron spp.
+Description: A flowering shrub belonging to the Rhododendron genus, known for vibrant blooms that appear in spring.
+
+10. Geranium
+
+<img width="276" height="183" alt="image" src="https://github.com/user-attachments/assets/c3b6488f-0cbd-4335-bad8-f9064b6dd0a0" />
+
+Scientific Name: Pelargonium spp.
+
+Description: A widely cultivated ornamental plant with colorful flowers and fragrant leaves, commonly grown in pots and gardens.
+
+11.Paper Flower Tree (Bougainvillea)
+
+<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/44e6f364-0631-4c08-bd44-6183b6d002ad" />
+
+Scientific Name: Bougainvillea glabra
+
+Description: A thorny ornamental vine or shrub known for its bright, papery bracts surrounding small white flowers.
+
+12. Rock Rose (Cistus)
+
+<img width="275" height="183" alt="image" src="https://github.com/user-attachments/assets/26d30a07-96d6-4414-9a03-205a55dc4544" />
+
+Scientific Name: Cistus spp.
+
+Description: A Mediterranean shrub with delicate, rose-like flowers. It is drought-tolerant and thrives in dry, rocky soils.
+
+13. Welwitschia mirabilis
+
+<img width="275" height="183" alt="image" src="https://github.com/user-attachments/assets/df2f168d-7101-4c2d-a51c-f3e11dfae181" />
+
+Scientific Name: Welwitschia mirabilis
+
+Description: A unique desert plant native to Namibia and Angola. It has only two leaves that grow continuously throughout its long lifespan.
+
+14. Puya raimondii
+
+<img width="159" height="318" alt="image" src="https://github.com/user-attachments/assets/832d3b11-de6b-4803-91c4-59fc5d7cdb62" />
+
+Scientific Name: Puya raimondii
+
+Description: Known as the Queen of the Andes, it produces one of the largest flower spikes in the plant kingdom and grows in high-altitude regions of Peru and Bolivia.
+
+15. Blue Puya
+
+<img width="201" height="251" alt="image" src="https://github.com/user-attachments/assets/f416c106-9021-4ef7-9bb3-56a60fd420f4" />
+
+Scientific Name: Puya berteroniana
+
+Description: A striking bromeliad with metallic turquoise-blue flowers and bright orange stamens. Native to Chile.
+
+16. Corypha umbraculifera
+
+<img width="194" height="259" alt="image" src="https://github.com/user-attachments/assets/9c717a60-ed7f-4061-a69a-351e1bcac677" />
+
+Scientific Name: Corypha umbraculifera
+
+Description: Also called the talipot palm, it produces one of the largest inflorescences in the world and flowers only once at the end of its life.
+
+17. Metasequoia glyptostroboides
+
+<img width="259" height="194" alt="image" src="https://github.com/user-attachments/assets/b7c91c3e-3ca6-4589-b533-3df766a9d9b3" />
+
+Scientific Name: Metasequoia glyptostroboides
+
+Description: Known as the dawn redwood, a fast-growing deciduous conifer once thought extinct and rediscovered in China.
+
+18. Nepenthes rajah
+
+<img width="275" height="183" alt="image" src="https://github.com/user-attachments/assets/26bc2368-bc1a-496f-9e41-d0cefeaf9a89" />
+
+Scientific Name: Nepenthes rajah
+
+Description: A large carnivorous pitcher plant native to Borneo, capable of trapping insects and small animals in its pitchers.
+
+19. Ravenala madagascariensis
+
+<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/0fa3bbb2-10cf-4388-b751-52f9a45db465" />
+
+Scientific Name: Ravenala madagascariensis
+
+Description: Known as the traveler’s palm, native to Madagascar. It has large, fan-shaped leaves arranged in a single plane.
+
+20. Himalayan Blue Poppy
+
+<img width="275" height="183" alt="image" src="https://github.com/user-attachments/assets/6edbc247-65c4-44bd-a52e-6b4ab85aa2fa" />
+
+Scientific Name: Meconopsis betonicifolia
+
+Description: A rare and stunning blue-flowered plant native to the Himalayan region, preferring cool, moist mountain climates.
+
+
 
 C. Model Training Details
 
