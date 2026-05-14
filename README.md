@@ -1,3 +1,4 @@
+Image dataset: https://drive.google.com/drive/folders/1R5ivIdkkoGqJRS2l5DfU_UaIn-SKN3sE?usp=sharing
 A. Project Overview
 
 This project is an Image Classification Model built using Google Teachable Machine.
